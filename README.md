@@ -24,7 +24,7 @@
 
 ### Create a Go module
 
-- [ ] Start a module that others can use¶
+- [x] Start a module that others can use¶
 
 ## 🧪 실험
 
