@@ -17,6 +17,11 @@
 
 ## 🚀 학습 과정
 
+### Get started with Go
+
+- [ ] Write some code¶
+- [ ] Call code in an external package¶
+
 ## 🧪 실험
 
 ## 📚 기술 스택
@@ -24,7 +29,7 @@
 ## 🔧 환경
 
 <span>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </span>
