@@ -19,8 +19,8 @@
 
 ### Get started with Go
 
-- [ ] Write some code¶
-- [ ] Call code in an external package¶
+- [x] Write some code¶
+- [x] Call code in an external package¶
 
 ## 🧪 실험
 
