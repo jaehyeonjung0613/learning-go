@@ -22,6 +22,10 @@
 - [x] Write some code¶
 - [x] Call code in an external package¶
 
+### Create a Go module
+
+- [ ] Start a module that others can use¶
+
 ## 🧪 실험
 
 ## 📚 기술 스택
