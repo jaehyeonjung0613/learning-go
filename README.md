@@ -34,6 +34,8 @@
 
 ### Return greetings for multiple people
 
+### Add a test
+
 ## 🧪 실험
 
 ## 📚 기술 스택
