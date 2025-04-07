@@ -28,6 +28,8 @@
 
 ### Call your code from another module
 
+### Return and handle an error
+
 ## 🧪 실험
 
 ## 📚 기술 스택
