@@ -32,6 +32,8 @@
 
 ### Return a random greeting
 
+### Return greetings for multiple people
+
 ## 🧪 실험
 
 ## 📚 기술 스택
