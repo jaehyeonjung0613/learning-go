@@ -30,6 +30,8 @@
 
 ### Return and handle an error
 
+### Return a random greeting
+
 ## 🧪 실험
 
 ## 📚 기술 스택
