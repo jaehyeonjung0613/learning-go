@@ -36,6 +36,8 @@
 
 ### Add a test
 
+### Compile and install the application
+
 ## 🧪 실험
 
 ## 📚 기술 스택
